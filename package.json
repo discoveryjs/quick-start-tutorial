@@ -1,0 +1,14 @@
+{
+  "name": "discovery-tutorial",
+  "scripts": {
+    "start": "discovery",
+    "build": "discovery-build -o docs"
+  },
+  "author": "Roman Dvornov",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@discoveryjs/cli": "^1.1.1",
+    "@discoveryjs/discovery": "^1.0.0-beta.21",
+    "@discoveryjs/node-modules": "^1.0.0"
+  }
+}
