@@ -2,7 +2,9 @@
 
 Source code for [Discovery.js tutorials: quick start](https://dev.to/rdvornov/discovery-js-tutorials-quick-start-m3k) article
 
-To launch run:
+[Try it in action](https://discoveryjs.github.io/quick-start-tutorial/) on `gh-pages`.
+
+To launch localy run:
 
 ```
 npm install
